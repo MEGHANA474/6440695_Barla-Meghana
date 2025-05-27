@@ -43,7 +43,7 @@ Key Folder:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Anjali-27066/Cognizant Digital Nurture 4.0 JAVA FSE Upskilling learning program.git
+   git clone https://github.com/MEGHANA474/6440695_Barla-Meghana.
 Open relevant folders in your preferred IDE or code editor.
 
 Use any local server (e.g., Live Server in VS Code) for HTML/CSS/JS files.
